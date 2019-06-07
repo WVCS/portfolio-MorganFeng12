@@ -207,11 +207,11 @@ body {
   text-align: center;
 }
 
-.container:hover .image {
+.container1:hover .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.container1:hover .middle {
   opacity: 1;
 }
 
