@@ -182,7 +182,7 @@ body {
   font-size: 25px;
 }
 
-.container1 {
+.container {
   position: relative;
   width: 50%;
 }
@@ -207,11 +207,11 @@ body {
   text-align: center;
 }
 
-.container1:hover .image {
+.container:hover .image {
   opacity: 0.3;
 }
 
-.container1:hover .middle {
+.container:hover .middle {
   opacity: 1;
 }
 
